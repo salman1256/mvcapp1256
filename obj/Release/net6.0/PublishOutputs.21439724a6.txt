@@ -1,0 +1,7 @@
+D:\Web\WebAppOne\WebAppOne\obj\Release\net6.0\PubTmp\Out\WebAppOne.exe
+D:\Web\WebAppOne\WebAppOne\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Web\WebAppOne\WebAppOne\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Web\WebAppOne\WebAppOne\obj\Release\net6.0\PubTmp\Out\WebAppOne.dll
+D:\Web\WebAppOne\WebAppOne\obj\Release\net6.0\PubTmp\Out\WebAppOne.deps.json
+D:\Web\WebAppOne\WebAppOne\obj\Release\net6.0\PubTmp\Out\WebAppOne.runtimeconfig.json
+D:\Web\WebAppOne\WebAppOne\obj\Release\net6.0\PubTmp\Out\WebAppOne.pdb
